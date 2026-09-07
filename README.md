@@ -36,4 +36,4 @@ The system uses the Indoor Plant Health & Growth Dataset from Kaggle to support 
 
 ## Project Documentation
 
-[Download the Final Project Report](https://github.com/Mayya121/-Grocery-Delivery-System/blob/main/HCI%20Phase%203%20report.pdf?raw=1)
+[View the Final Project Report](https://raw.githubusercontent.com/Mayya121/Plant-Care-Tracker/main/Plant%20Care%20Tracker%20Report.pdf)
