@@ -32,3 +32,8 @@ The system uses the Indoor Plant Health & Growth Dataset from Kaggle to support 
 * Binary Linear Programming
 * Excel Solver
 * Kaggle Dataset
+
+
+## Project Documentation
+
+[Download the Final Project Report](https://github.com/Mayya121/-Grocery-Delivery-System/blob/main/HCI%20Phase%203%20report.pdf?raw=1)
