@@ -1,6 +1,6 @@
 # Plant Care Tracker
 
-# Overview
+##  Overview
 
 Plant Care Tracker is an optimization-based system designed to support the management of indoor plants. It helps users select suitable locations for their plants based on lighting requirements and organize weekly care activities.
 
